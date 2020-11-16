@@ -1,4 +1,4 @@
-baseurl = "http://www.politicsunlocked.uk/"
+baseurl = "/"
 languageCode = "en-us"
 title = "Politics Unlocked Podcast"
 theme = "castanet"
