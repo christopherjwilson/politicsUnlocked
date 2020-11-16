@@ -43,14 +43,14 @@
 
     <!-- end square row -->
     {{ end }}
+    
     {{- with .Params.spotify -}}
       <div class="row">
-        <div class="embed-responsive embed-responsive-16by9">
-         
+     
+        
+      <iframe src="https://open.spotify.com/embed-podcast/episode/{{.}}" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-      <iframe class="embed-responsive-item" src="https://open.spotify.com/embed-podcast/episode/{{.}}" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-
-        </div>
+       
       </div>
     {{- end -}}
   {{- with .Params.youtube -}}

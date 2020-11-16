@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Guests of HugoCast on Politics Unlocked Podcast</title>
+    <title>Guests of the show on Politics Unlocked Podcast</title>
     <link>/guest/</link>
-    <description>Recent content in Guests of HugoCast on Politics Unlocked Podcast</description>
+    <description>Recent content in Guests of the show on Politics Unlocked Podcast</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 25 Sep 2016 02:11:48 -0500</lastBuildDate><atom:link href="/guest/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Matthew Snedker</title>
+      <link>/guest/msnedker/</link>
+      <pubDate>Thu, 08 Dec 2016 20:55:58 -0600</pubDate>
+      
+      <guid>/guest/msnedker/</guid>
+      <description>Green Party councillor, College Ward, Darlington. I ride bikes, scourge streets, grow food and read books. He/him.</description>
+    </item>
+    
     <item>
       <title>Phil Moorhouse</title>
       <link>/guest/pmoorhouse/</link>
