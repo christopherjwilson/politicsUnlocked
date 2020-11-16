@@ -56,7 +56,7 @@ google_play_subscribe = "https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3
 #pocketcasts_subscribe = "http://pcasts.in/feed/feeds.soundcloud.com/users/soundcloud:users:203144248/sounds.rss"
 #mailchimp_subscribe = ""
 rss_subscribe = "https://anchor.fm/s/3c67f318/podcast/rss" #only set this if you don't want to use the built-in feed
-description = "A UK politics podcast where we break down and discuss the main news and events of the week. We look at major topics such as Brexit and COVID, as well as discussing how government policy affects the lives of ordinary people."
+description = "A UK politics podcast where we break down and discuss the main news and events of the week. We look at major topics such as Brexit and COVID, as well as discussing how government policy affects the lives of ordinary people. Find us on Apple, Google and Spotify Podcasts - or Tweet at us: @PoliticUnlocked and say hello."
 media_prefix = ""
 disqusShortname = ""
 #  [params.feed]
