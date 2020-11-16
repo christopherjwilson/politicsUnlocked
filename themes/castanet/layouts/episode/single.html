@@ -43,13 +43,11 @@
 
     <!-- end square row -->
     {{ end }}
-    {{- with .Params.podcast_file -}}
+    {{- with .Params.spotify -}}
       <div class="row">
         <div class="col-md-12 player_row">
 
-        <audio id="player2" style="width: 100%" controls preload="none">
-          <source src="{{ $.Site.Params.media_prefix }}{{ . }}" type="audio/mp3">
-          </audio>
+      {{ partial "spotify.html" . }}
         </div>
       </div>
     {{- end -}}
