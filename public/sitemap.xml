@@ -28,6 +28,21 @@
   </url>
   
   <url>
+    <loc>/3/</loc>
+    <lastmod>2020-11-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2/</loc>
+    <lastmod>2020-10-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/1/</loc>
+    <lastmod>2020-10-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/contact/</loc>
     <lastmod>2017-04-27T15:19:36-05:00</lastmod>
   </url>
@@ -44,6 +59,11 @@
   
   <url>
     <loc>/guest/msnedker/</loc>
+    <lastmod>2016-12-08T20:55:58-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/guest/plocke/</loc>
     <lastmod>2016-12-08T20:55:58-06:00</lastmod>
   </url>
   

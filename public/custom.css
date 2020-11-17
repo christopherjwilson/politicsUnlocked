@@ -1,0 +1,19 @@
+body {
+  
+    background-color: #343a40;
+}
+
+.navbar-brand {
+    margin-right: 1.5rem;
+    font-size: 2rem;
+   
+}
+.navbar-light .navbar-nav .nav-link {
+    color: rgba(0, 0, 0, 0.5);
+    font-size: 1.25rem;
+}
+
+.middle_container {
+    background-color: #fff;
+    padding-top: 1em;
+}

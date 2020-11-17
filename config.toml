@@ -40,6 +40,7 @@ paginate = "9"
 [params]
 mainSections = ["episode"]
 site_theme = "blue"
+custom_css= ["custom.css"]
 # site_layout = "grid"
 site_layout = "row"
 enable_jumbo = "true"

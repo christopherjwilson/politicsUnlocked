@@ -6,12 +6,11 @@ Instagram: ""
 Linkedin: ""
 Pinterest: ""
 Pronouns: ""
-Thumbnail: 
+Thumbnail: "img/guest/pete.png"
 Title: Peter Locke
-Twitter: ""
+Twitter: 
 Type: guest
 Website: ""
-YouTube: " "
+YouTube: ""
 date: "2016-12-08T20:55:58-06:00"
 ---
-
