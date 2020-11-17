@@ -1,19 +1,66 @@
 body {
   
-    background-color: #343a40;
+    background-color: #1B2845;
 }
 
 .navbar-brand {
-    margin-right: 1.5rem;
-    font-size: 2rem;
+    margin-right: 1rem;
+    font-size: 1.5rem;
    
 }
 .navbar-light .navbar-nav .nav-link {
     color: rgba(0, 0, 0, 0.5);
     font-size: 1.25rem;
+   
 }
+
+.navbar-light  {
+   background-color: #fff !important;
+}
+
 
 .middle_container {
     background-color: #fff;
     padding-top: 1em;
+}
+
+.grid_episode_title:hover {
+    text-decoration: none;
+     color: #335C81; 
+}
+
+.grid_episode_title {
+    text-decoration: none;
+     color: #fff; 
+}
+
+.row_latest_episode_title {
+  color: #FE5722;
+}
+
+h1 {
+  color: #FE5722;
+}
+
+.row_latest_episode_title:hover {
+  color:  #1B2845; 
+}
+
+.hompage_episode_description {
+   color: #fff; 
+}
+
+.main_container {
+    background-color: #5899E2;
+    margin-top: 20px;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.jumbotron {
+    padding: 2rem 1rem;
+    margin-bottom: 2rem;
+    background-color: #335C81;
+    border-radius: 0.3rem;
+    color: #fff;
 }
