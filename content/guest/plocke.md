@@ -8,7 +8,7 @@ Pinterest: ""
 Pronouns: ""
 Thumbnail: 
 Title: Peter Locke
-Twitter:
+Twitter: ""
 Type: guest
 Website: ""
 YouTube: " "
